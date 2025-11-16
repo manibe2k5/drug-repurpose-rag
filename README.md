@@ -2,7 +2,9 @@
 
 # How to run the app
 
-First activate the venv in a command prompt
+Run uv sync to install the dependencies and build the virtual env
+
+Activate the venv in a command prompt
 
 .drug-repurpose\Scripts\activate
 
